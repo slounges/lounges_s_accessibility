@@ -7,6 +7,8 @@ link to design/development doc:
 ## Tools Used
 - JS
 - CSS
+- HTML
+- SASS
 
 ## Installation 
 
