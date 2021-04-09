@@ -8,6 +8,7 @@ link to design/development doc:
 - JS
 - CSS
 
+## Installation 
 
 ## Author
 Shannon Lounges
