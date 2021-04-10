@@ -11,6 +11,7 @@ link to design/development doc:
 - SASS
 
 ## Installation 
+Download zip file and open up in browser.
 
 ## Author
 Shannon Lounges
