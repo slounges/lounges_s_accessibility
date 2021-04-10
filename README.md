@@ -5,7 +5,6 @@ This is a project research making media accessible to anyone regardless of disab
 link to design/development doc: 
 
 ## Tools Used
-- JS
 - CSS
 - HTML
 - SASS
